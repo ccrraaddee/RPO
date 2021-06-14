@@ -10,4 +10,8 @@ public class BackendApplication {
 		SpringApplication.run(BackendApplication.class, args);
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 65e24588140698f9893926921a61c6092d360c15
